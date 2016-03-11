@@ -2,7 +2,7 @@ package bot.controller;
 
 import bot.controller.BotController;
 
-public class BotRunner
+public class DenonBotRunner
 {
 	public static void main (String [] args)
 	{
